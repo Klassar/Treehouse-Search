@@ -3,7 +3,6 @@ Welcome to Treehouse Search! A student records search application utlizing the T
 
 # Contributing
 Feel free to add to the application, all addtions are welcomed!
-License
 
 # License
 Treehouse Search is a public domain project under [MIT](https://mit-license.org/)
