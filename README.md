@@ -1,5 +1,5 @@
 # Treehouses
-Welcome to Treehouses! A student records search application utlizing the TeamTreehouse API to pull student data.
+Welcome to Treehouse Search! A student records search application utlizing the TeamTreehouse API to pull student data.
 
 # Contributing
 Feel free to add to the game, all addtions are welcomed!
